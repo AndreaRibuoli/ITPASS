@@ -1,2 +1,3 @@
 QCLSRC    BUILD     CLLE      Esempio per colleghi ITPASS
 QCLSRC    ESEMPIO   CLLE      Esempio da installare su ITPASS
+QCLSRC    ESEMPIO2  CLLE      Esempio da installare su ITPASS
